@@ -3,8 +3,8 @@ package repository
 import (
 	"fmt"
 
+	"github.com/jinzhu/gorm"
 	"github.com/karlaugust1/code_pix_go/domain/model"
-	"gorm.io/gorm"
 )
 
 type PixKetRepositoryDb struct {
