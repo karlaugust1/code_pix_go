@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "code_pix_go/cmd"
+import "github.com/karlaugust1/code_pix_go/cmd"
 
 func main() {
 	cmd.Execute()
